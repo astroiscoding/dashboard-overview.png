@@ -1,4 +1,2 @@
 # dashboard-overview.png
-# Patient Overview Dashboard
-
-![Dashboard](dashboard.png)
+![Dashboard](Image.png)
